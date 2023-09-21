@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin-left: 25px;
+}
+h1{
+    display: inline;
+}
+ul,li{
+    
+    display: inline;
+    color: grey;
+}
+ul{
+    margin-left: 800px;
+}
+li{
+    cursor: pointer;
+    margin-left: 25px;
+}
+li:hover{
+    color: white;
+}
+.a{
+    padding: 25px;
+    
+    text-align: center;
+    background-color: white;
+}
+input{
+    width:80%;
+    padding: 15px;
+}
+.photo{
+    padding: 20px;
+    margin: 10px;
+}
+.photo{
+    padding: 5px;
+    text-align: center;
+}
+.b{
+    border-color: black;
+    border-width: 2px;
+    display: inline-block;
+    border-style: solid;
+    width: 200px;
+    margin-left: 50px;
+    
+}
+.b :hover{
+    background-color: black;
+    color: white;
+}
+.img1{
+    border-width: 100%;
+}
+.p{
+    font-size: 15px;
+    color: black;
+    padding-left: 20px;
+}
+.ak{ font-size: 15px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+.z1{
+    padding-top: 25px;
+    padding-left: 20px;
+}
+
+
